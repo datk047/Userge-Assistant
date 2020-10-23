@@ -39,15 +39,10 @@
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
       "value": ""
     },
-    "TG_BOT_TOKEN_BF_HER": {
+    "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and get the token of your bot. Get it.",
       "value": ""
     },
-    "TG_BOT_USER_NAME_BF_HER": {
-      "description": "You Telegram Bot API Key Here. Needed For Help Module And Cbutton.",
-      "value": ""
-    }
-  },
   "addons": [
     {
       "plan": "heroku-postgresql",
